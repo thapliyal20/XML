@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://www.example.org/employee" xmlns:tns="http://www.example.org/employee"
+	elementFormDefault="qualified">
+	<xs:element name="Empno" type="xs:integer" />
+	<xs:element name="Ename" type="xs:string" />
+	<xs:element name="JOB" type="xs:string" />
+	<xs:element name="MGR" type="xs:integer" />
+	<xs:element name="Hiredate" type="xs:string" />
+	<xs:element name="Sal" type="xs:integer" />
+	<xs:element name="Comm" type="xs:integer" />
+	<xs:element name="Deptno" type="xs:integer" />
+</xs:schema>

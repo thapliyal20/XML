@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://www.example.org/2.3_library" xmlns:tns="http://www.example.org/2.3_library"
+	elementFormDefault="qualified">
+	<xs:element name="Title" type="xs:string" />
+	<xs:element name="Author" type="xs:string" />
+	<xs:element name="Publisher" type="xs:string" />
+	<xs:element name="Cover cover_type=Hardbook" type="xs:string" />
+	<xs:element name="Category cat_type=Horror" type="xs:string" />
+	<xs:element name="ISBN isbn_num=Z1" type="xs:string" />
+	<xs:element name="Rating rate_Val=5" type="xs:integer" />
+	<xs:element name="Price" type="xs:integer" />
+	<xs:element name="Comments" type="xs:string" />
+</xs:schema>

@@ -1,0 +1,58 @@
+<?xml version="1.0" unicode="UTF-8"?>
+<employee_details>
+     <employee>
+       <employee_code>1111</employee_code>
+       <employee_name>
+                <first_name> Seema</first_name>
+	<last_name> Dalvi </last_name>
+       </employee_name>
+                <DOJ>1997-08-09</DOJ>
+                <total_experience>12</total_experience>
+       <department>
+                <unit>3d</unit>
+                <loc> Mumbai </loc>
+       </department>
+       <designation>
+                <designation1></desgination1>
+	<designation2></desgination2>
+	<designation3></desgination3>
+	<designation4>*</desgination4>
+	<designation5></desgination5> 
+       </designation>
+       <sal>21000</sal>
+       <grade>
+	<a></a>
+	<b>*</b>
+	<c></c>
+	<d></d>
+       </grade>
+     </employee>
+     <employee>
+       <employee_code>222</employee_code>
+       <employee_name>
+                <first_name> Bharati</first_name>
+	<last_name>Mantri </last_name>
+       </employee_name>
+       <DOJ>1999-01-12</DOJ>
+       <total_experience>5</total_experience>
+       <department>
+                <unit>4a</unit>
+                <loc> Pune</loc>
+       </department>
+       <designation>
+                <designation1></desgination1>
+	<designation2>*</desgination2>
+	<designation3></desgination3>
+	<designation4></desgination4>
+	<designation5></desgination5> 
+       </designation>
+       <sal>12000</sal>
+       <grade>
+	<a>*</a>
+	<b></b>
+	<c></c>
+	<d></d>
+       </grade>
+     </employee>
+</employee_details>
+        	

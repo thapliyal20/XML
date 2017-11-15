@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://www.example.org/2.2_email" xmlns:tns="http://www.example.org/2.2_email"
+	elementFormDefault="qualified">
+	<xs:element name="To" type="xs:string" />
+	<xs:element name="From" type="xs:string" />
+	<xs:element name="CC" type="xs:string" />
+	<xs:element name="BCC" type="xs:string" />
+	<xs:element name="Subject" type="xs:string" />
+	<xs:element name="Body" type="xs:string" />
+</xs:schema>
